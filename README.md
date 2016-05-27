@@ -1,4 +1,4 @@
-# bb-sw-maintenance
+# Beaverlodge Maintenance
 Build a coming soon/maintenance page with Beaver Builder
 
 upon activating the plugin a blank template should be created called "Maintenance Mode Template"
